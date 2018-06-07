@@ -1,0 +1,17 @@
+
+
+.card hr { 
+    margin-top: 0;
+    margin-bottom: .5rem
+} 
+.card hr:last-child{
+    border: 0;
+}
+
+#username { 
+    color: green;
+} 
+
+.show-form{ 
+    display: inline; 
+} 
